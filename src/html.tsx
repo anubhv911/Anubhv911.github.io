@@ -70,7 +70,7 @@ const HTML: React.FunctionComponent<{
     <head>
       <meta charSet="utf-8" />
       <meta httpEquiv="x-ua-compatible" content="ie=edge" />
-      <title>Sahil Yadav</title>
+      <title>Anubhav Agrawal</title>
       <meta
         name="description"
         content="that one guy in the bar who you freely talk with over a beer"
