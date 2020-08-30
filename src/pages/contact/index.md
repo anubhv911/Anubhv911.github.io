@@ -10,4 +10,12 @@ title: I'll be happy to hear from you.
 - [GitHub](https://github.com/anubhv911)
 - [LinkedIn](https://www.linkedin.com/in/anubhav-agrawal/)
 
-In case you like this theme, props to [Juliette](https://sahilyadav.com/) from whom I shamelessly cloned this.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+In case you like this theme, props to [Sahil](https://sahilyadav.com/) from whom I shamelessly cloned this.
