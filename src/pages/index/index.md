@@ -1,11 +1,11 @@
 ---
 templateKey: IndexPage
-title: Aye!
+title: Nice to E-meet you!
 featuredImage: ./me.png
 style: index
 ---
 
-My name's **_Anubhav Agrawal_**. I am a Business Product Manager, Tinkerer and UX lover from Bengaluru City.
+**_Anubhav_** here. I am a Business Product Manager, Tinkerer and UX lover from Bengaluru City.
 
 
 

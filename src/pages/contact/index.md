@@ -6,7 +6,6 @@ title: Let's connect.
 <strong style="font-weight: bold; font-size: 1.1em;">📮 hello@anubhv.com</strong>
 
 
-<br>
 
 
 - [GitHub](https://github.com/anubhv911)
@@ -16,7 +15,7 @@ title: Let's connect.
 
 
 
-~ **_I am a part of all that I have met_**. 
+**_~I am a part of all that I have met_**. 
 <br>
 <br>
 <br>
