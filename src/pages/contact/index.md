@@ -22,4 +22,4 @@ title: Let's connect.
 <br>
 
 
-Props to [Sahil](https://www.linkedin.com/in/meydv5/) for the theme (Y)
+Props to [Sahil](https://www.linkedin.com/in/meydv5/) for the theme (Y).
