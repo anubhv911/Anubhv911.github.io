@@ -80,7 +80,7 @@ const Navbar: React.FunctionComponent<{
         to="/"
         isActive={new RegExp('^/$').test(pathname)}
         Icon={(props: IconProps) => <AboutIcon {...props} />}
-        label="About"
+        label="Home"
       />
       <NavbarLink
         to="/contact"

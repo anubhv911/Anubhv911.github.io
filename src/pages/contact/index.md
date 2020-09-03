@@ -1,21 +1,26 @@
 ---
 templateKey: TemplateBasic
-title: I'll be happy to hear from you.
+title: Let's connect.
 ---
 
 <strong style="font-weight: bold; font-size: 1.1em;">📮 hello@anubhv.com</strong>
 
-<!-- I could've written my Twitter handle as well but I sometimes get political there so would skip that for now. -->
+
+<br>
+
 
 - [GitHub](https://github.com/anubhv911)
 - [LinkedIn](https://www.linkedin.com/in/anubhav-agrawal/)
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- [Instagram](https://www.instagram.com/bad.assux/)
 
 
-In case you like this theme, props to [Sahil](https://sahilyadav.com/) from whom I shamelessly cloned this.
+
+
+~ **_I am a part of all that I have met_**. 
+<br>
+<br>
+<br>
+<br>
+
+
+Props to [Sahil](https://www.linkedin.com/in/meydv5/) for the theme (Y)
